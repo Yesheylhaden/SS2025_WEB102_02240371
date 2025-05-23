@@ -2,7 +2,7 @@ const express = require('express');
 const dotenv = require('dotenv');
 const morgan = require('morgan');
 const cors = require('cors');
-const helmet = require('helmet');
+const helmet = require('./node_modules/helmet/index.d.cts');
 const path = require('path');
 
 // Load env vars
