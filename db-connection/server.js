@@ -13,7 +13,7 @@ const pool = new Pool({
     user: 'postgres',       // Default PostgreSQL user (adjust if different)
     host: 'localhost',
     database: 'student_records',
-    password: 'bumchu2004',           // Add your password if you've set one (required on Windows)
+    password: 'San_Gay@12',           // Add your password if you've set one (required on Windows)
     port: 5432              // Default PostgreSQL port
 });
 
